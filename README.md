@@ -39,7 +39,7 @@ The dataset contains Olympic athlete and medal records from **1976 to 2008** wit
 
 ## Key Insights
 
-### 1. 👥 Athlete Participation Trends
+### 1.  Athlete Participation Trends
 
 - Athlete participation steadily increased from 1976 to 2008.
 - Significant rise in **female participation**, reducing the gender gap over time.
